@@ -1,1 +1,1 @@
-P2P File Share Using QT & Go.
+P2P File Share Using Rust & Qt.
